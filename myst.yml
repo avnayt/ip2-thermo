@@ -7,7 +7,7 @@ project:
   # keywords: []
   authors: 
     - name: Avnay Taneja
-    - name: Alishia van Wuijckhuijse
+    - name: Loek Bos
 
   github: https://github.com/avnayt/ip2-thermo
   plugins:
