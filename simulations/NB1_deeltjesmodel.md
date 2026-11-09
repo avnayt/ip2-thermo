@@ -12,6 +12,8 @@ De basis van een goede computer simulatie ligt, net als bij het oplossen van een
 Als startopdracht modelleren we twee fietsers. Doorloop de bovenstaande drie stappen. 
 ```
 skibidi test
+bori kanker
+
 
 
 
